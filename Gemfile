@@ -36,6 +36,9 @@ gem 'capybara', '2.4.3'
 # Use unicorn as the app server
 gem 'unicorn'
 
+#transpec is a tool for converting your specs to the latest RSpec syntax with static and dynamic code analysis
+gem 'transpec', '2.3.7'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
